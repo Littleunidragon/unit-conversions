@@ -12,6 +12,6 @@ public class circle {
     double sqr = Math.PI * r * r;
     System.out.println("Perimeter: " + prm);
     System.out.println("Square: " + sqr);
+    sc.close();
  }
-    
 }
